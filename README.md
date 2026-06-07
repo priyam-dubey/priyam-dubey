@@ -84,8 +84,8 @@ I am a final-year **Computer Science & Engineering undergraduate at BIT Mesra** 
 ### 📈 GitHub Stats & Activity
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyam-dubey&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-dubey&layout=compact&theme=visual_studio_dark&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyam-dubey&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Priyam's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-dubey&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Priyam's Top Languages" />
 </p>
 
 ---
